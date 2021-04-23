@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @leogmg
+- 👀 I’m interested in startups, equity building and social impact
+- 🌱 I’m currently learning how to grow a business
+- 📫 contatoleonardogm@gmail.com
