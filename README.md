@@ -45,11 +45,7 @@ My past venture is a startup called Sync Sales, a SaaS platform designed to crea
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 </p>
 </details>
@@ -64,7 +60,6 @@ My past venture is a startup called Sync Sales, a SaaS platform designed to crea
 <p align="left">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=leogmg&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="leogmg" />
   &nbsp;
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=leogmg&theme=dracula&hide_border=true" alt="leogmg"/>
 </p>
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=leogmg&theme=dracula&margin-w=12&margin-h=12&no-frame=true" alt="leogmg"/></p>
