@@ -5,6 +5,8 @@
 At just 15 years old I founded 034 Sneakers, one of the largest sneaker eCommerces in Brazil, with more than 1mm views on TikTok and 40k followers on social media.
 My past venture is a startup called Sync Sales, a SaaS platform designed to create websites and catalogs that is now used by 30.000+ businesses across Brazil.</h3>
 
+<p><img src="https://komarev.com/ghpvc/?username=leogmg&style=flat-square&color=blueviolet" alt="leogmg"/></p>
+
 <hr/>
 
 <details><summary>:books:👉 Here's my stack</summary>
@@ -60,5 +62,3 @@ My past venture is a startup called Sync Sales, a SaaS platform designed to crea
 </p>
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=leogmg&theme=dracula&margin-w=12&margin-h=12&no-frame=true" alt="leogmg"/></p>
-
-<p><img src="https://komarev.com/ghpvc/?username=leogmg&style=flat-square&color=blueviolet" alt="leogmg"/></p>
