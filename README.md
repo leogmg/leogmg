@@ -56,4 +56,7 @@ My past venture is a startup called Sync Sales, a SaaS platform designed to crea
   <a href="https://instagram.com/lgm.br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lgm.br" height="30" width="40" /></a>
 </p>
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=leogmg&theme=dracula&margin-w=12&margin-h=12&no-frame=true" alt="leogmg"/></p>
+<p align="left">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=leogmg&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="leogmg" />
+  &nbsp;
+</p>
